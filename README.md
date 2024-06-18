@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaushalVachhani
-- Having 5+ years of experience working on Data Engineering and Machine Learning components to build big data solutions.
+- Having 5+ years of experience working on Data Engineering and Machine Learning domain to build big data solutions.
 - Area of interest: Apache Spark, SQL Machine Learning, MLFlow, Python, Pyspark, Data warehousing and Modelling.
 
 <!---
