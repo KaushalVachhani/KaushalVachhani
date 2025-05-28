@@ -5,7 +5,7 @@ Experienced in building and deploying AI-driven solutions across **Machine Learn
 ### AI & ML
 - Built agentic systems using **LangChain**, **LangGraph**, **OpenAI agents SDK**, and **MCP protocol**
 - Developed **Retrieval-Augmented Generation (RAG)** pipelines with vector databases like **Databricks Vector DB** and **Chroma DB**
-- Fine-tuned models and managed the ML lifecycle with **MLflow** and **Mosaic AI Model Serving**
+- Fine-tuned models, performed model evaluation and managed the ML lifecycle with **MLflow** and **Mosaic AI Model Serving**
 
 ### Data Engineering
 - Engineered scalable data pipelines with **PySpark**, **Spark SQL**, **Delta Lake**, and **Azure**
